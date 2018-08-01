@@ -4,14 +4,14 @@
 body {background-color: #fafafa;}
 
 #tagliner {color:#cdd0d5;
-font-family: 'Comfortaa', cursive;
+font-family: 'IBM Plex Sans', sans-serif;
 font-size: 16px;
 text-align: center;
 margin: auto;
 }
 
 #headliner {color:#fc846b;
-font-family: 'Comfortaa', cursive;
+font-family: 'IBM Plex Sans', sans-serif;
 font-size: 80px;
 text-align: center;
 padding-bottom: 10px;
@@ -19,7 +19,7 @@ margin: auto;
 }
 
 #footliner {color:#cdd0d5;
-font-family: 'Comfortaa', cursive;
+font-family: 'IBM Plex Sans', sans-serif;
 font-size: 10px;
 text-align: center;
 padding-top: 0px;
@@ -39,7 +39,7 @@ position:absolute;
 bottom:0;
 left:0;
 font-size:2.5rem;
-font-family: 'Comfortaa';
+font-family: 'IBM Plex Sans', sans-serif;
 color:#fc846b;
 padding:1rem 2rem}
 
@@ -49,7 +49,7 @@ padding:1rem 2rem}
   top:0;
   right:0;
   font-size:12px;
-  font-family: 'Comfortaa';
+font-family: 'IBM Plex Sans', sans-serif;
   color:#000000;
   padding:1rem 2rem;
   z-indeX:99999;
@@ -60,7 +60,7 @@ position:absolute;
 bottom:0;
 right:0;
 font-size:1.3rem;
-font-family: 'Comfortaa';
+font-family: 'IBM Plex Sans', sans-serif;
 color:#fc846b;
 padding:1rem 2rem
 }
@@ -69,7 +69,7 @@ padding:1rem 2rem
 display:flex;
 flex-direction:column;
 min-height:100%;
-  font-family: 'Comfortaa';
+font-family: 'IBM Plex Sans', sans-serif;
 }
 
 .inner_box {
@@ -91,13 +91,13 @@ min-height:100%;
 .goalBoxdad{
   font-size:3rem;
   width:80%;
-  font-family: 'Comfortaa';
+font-family: 'IBM Plex Sans', sans-serif;
   transition:transform .5s, margin .5s}
 
 .goalBox_howdy{
   font-size:2rem;
   width:60%;
-  font-family: 'Comfortaa';
+font-family: 'IBM Plex Sans', sans-serif;
   transition:transform .5s, margin .5s;
 padding-bottom:25px;}
 
@@ -136,7 +136,7 @@ padding-bottom:25px;}
 .goalBox {
   display: block;
   width: 100%;
-  font-family: 'Comfortaa';
+font-family: 'IBM Plex Sans', sans-serif;
   padding-top: 160px;
   text-decoration: none;
   position: fixed;
