@@ -34,7 +34,7 @@ height:30px;
 .footer {height:2rem;
   width:100%}
 
-.gobits_box {
+.stotles_box {
 position:absolute; 
 bottom:0;
 left:0;
@@ -88,13 +88,13 @@ min-height:100%;
   align-items:center;
   justify-content:center}
 
-.goalBoxdad{
+.Boxdad{
   font-size:3rem;
   width:80%;
   font-family: 'Comfortaa';
   transition:transform .5s, margin .5s}
 
-.goalBox_howdy{
+.Box_howdy{
   font-size:2rem;
   width:60%;
   font-family: 'Comfortaa';
@@ -108,7 +108,7 @@ padding-bottom:25px;}
 }
 
 /*button deets*/
-.lets-gobit-btn {
+.lets-stotle-btn {
   background-color: #fc846b;
   color: white;
   font-weight:bold;
