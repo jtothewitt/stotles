@@ -3,6 +3,13 @@
 
 body {background-color: #fafafa;}
 
+#banner{
+font-family: 'Karla', sans-serif;
+}
+
+.logo {height:2rem;
+  width:100%}
+
 #tagliner {color:#cdd0d5;
 font-family: 'Karla', sans-serif;
 font-size: 16px;
@@ -130,8 +137,8 @@ padding-bottom:25px;}
 }
 #goalHop {
   color:#8d949e;
-  font-size:50%;
-  padding:11px 23px
+  font-size:55%;
+  padding:10px 23px
 }
 .goalBox {
   display: block;
