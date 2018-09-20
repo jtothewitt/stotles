@@ -3,12 +3,6 @@
 
 body {background-color: #fafafa;}
 
-#banner{
-font-family: 'Karla', sans-serif;
-}
-
-.logo {height:2rem;
-  width:100%}
 
 #tagliner {color:#cdd0d5;
 font-family: 'Karla', sans-serif;
@@ -76,7 +70,7 @@ padding:1rem 2rem
 display:flex;
 flex-direction:column;
 min-height:100%;
-font-family: 'Roboto', sans-serif;
+font-family: 'Karla', sans-serif;
 }
 
 .inner_box {
@@ -110,7 +104,7 @@ padding-bottom:25px;}
 
 .splash-goals {
   position:relative;
-  min-height:2em;
+  min-height:3em;
   margin:0rem
 }
 
@@ -138,7 +132,7 @@ padding-bottom:25px;}
 #goalHop {
   color:#8d949e;
   font-size:45%;
-  padding:10px 23px
+  padding:12px 23px
 }
 .goalBox {
   display: block;
