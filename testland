@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Gustoso</title>
+        <title>stotles | whole > Σ of parts.</title>
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -18,18 +18,14 @@
 
                     <nav>
                         <ul>
-                            <li><a href="#welcome">Welcome</a></li>
-                            <li><a href="#menu">Menu</a></li>
-                            <li><a href="#reservations">Reservations</a></li>
-                            <li><a href="#news">News</a></li>
-                            <li><a href="#contact">Contact</a></li>
+                            <li><a href="#about">about</a></li>
                         </ul>
                     </nav>
                 </header>
 
                 <div class="content">
                     <h1>stotles</h1>
-                    <h2>using B2B connections to improve buying power for SME's.</h2>
+                    <h2>mapping commercial connections to improve buying power for SME's.</h2>
 
                     <div class="button-wrapper">
                         <a href="" class="button">what is this?</a>
@@ -39,7 +35,7 @@
         </section>
 
         <footer>
-            <p class="logo">copyright 2018 stotles ltd all rights reserved</p>
+            <p class="logo">copyright 2018   stotles ltd   all rights reserved</p>
         </footer>
     </body>
 </html>
